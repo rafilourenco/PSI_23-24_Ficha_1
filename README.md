@@ -8,46 +8,46 @@ Escreve as respostas dentro dos blocos correspondentes. Substitui as reticência
 
 ## Informação do aluno
 
-    Nome: ...
+    Nome: Rafael Lourenço
 
 ## E1 - Responde às seguintes questões (4v)
 
     1 - As classes são tipos de referência? 
-        ...
-    2 - (Classes/Instâncias) definem o que algo pode fazer e guardar, enquanto uma
-        (classe/instância) é um objeto específico que contém o seu próprio estado 
+        Sim
+    2 - (Classes) definem o que algo pode fazer e guardar, enquanto uma
+        (instância) é um objeto específico que contém o seu próprio estado 
         (Apaga a opção entre parênteses errada)
     3 - Indica três tipos de membros que podem pertencer a uma classe 
-        ...
+        Variáveis, métodos e construtores.
     4 - Se algo é static então é partilhado por todas as instâncias desse tipo específico? 
-        ...
+        Sim
     5 - Como se chamam os métodos especiais que inicializam uma classe? 
-        ...
+        Construtores
     6 - De onde podes aceder a algo private? 
-        ...
+        Apenas dentro da classe.
     7 - De onde podes aceder a algo public? 
-        ... 
+        A partir de qualquer sitio. 
     8 - De onde podes aceder a algo internal? 
-        ...
+        Estando dentro do mesmo projeto.
 
 ## E2 - Explica por palavras tuas o significado dos seguintes termos (4v)
 
     1 - Classe
-        ...
+        São categorias gerais de objetos que são utilizadas para contem variaveis e estados.
     2 - Objeto / instância
-        ...
+        Dados das classes
     3 - Método
-        ...
+        Contidos na classe program utilizados para conter o código.
     4 - Construtor
-        ...
+        Métodos utilizados para inicializar a classe.
     5 - Variável de instância
-        ...
+        Cada instância têm o seu próprio estado ou valores.
     6 - Variável local
-        ...
+        São variáveis ocultas utilizadas em construtores.
     7 - Overloading
-        ...
+        É quando se criam métodos com o mesmo nome mas para diferentes tipos de dados.
     8 - Encapsulação
-        ...
+        Código externo de estado privado que manipulam e obtêm o estado dos métodos públicos.  
 
 ## E3 - Cria o seguinte programa de consola (12v)
 
